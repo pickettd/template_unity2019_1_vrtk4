@@ -1,0 +1,26 @@
+{
+    "dependencies": {}, 
+    "description": "This package contains the necessary components required to use the Oculus Virtual Reality SDK on Android. By using this package, you will be able to deploy and run your applications on Oculus supported devices.", 
+    "displayName": "Oculus (Android)", 
+    "keywords": [
+        "oculus", 
+        "xr", 
+        "vr", 
+        "virtual", 
+        "gear", 
+        "gearvr", 
+        "go", 
+        "quest", 
+        "sdk", 
+        "android"
+    ], 
+    "name": "com.unity.xr.oculus.android", 
+    "repoPackagePath": "build/packages/com.unity.xr.oculus.android", 
+    "repository": {
+        "revision": "4af264f28bfe177ad34638c1ff97467058cffc7d", 
+        "type": "git", 
+        "url": "ssh://git@github.com/Unity-Technologies/upm-xr-oculus.git"
+    }, 
+    "unity": "2018.3", 
+    "version": "1.36.0"
+}
